@@ -1,16 +1,16 @@
 ---
-name: 友链模板
+name: 友情链接模板
 about: 自助添加友链。请遵守 JSON 格式，在双引号中填写。
 title:
-labels: ''
+labels: 'active'
 ---
+<!-- 请将上面的标题改成你网站的名称 -->
 <!-- 请在双引号中填写 -->
 ```json
 {
     "title": "",
     "url": "",
     "avatar": "",
-    "screenshot": "",
     "description": ""
 }
 ```
